@@ -9,7 +9,7 @@ I managed to get a bachelor in computer science! 🚀🚀
 
 Right now I'm focusing in acquiring experience and learn new things!
 
-- 👔 I’m currently working on Accenture as a Node/React developer! 
+- 👔 I’m currently working at Aramis as a Fullstack developer! 
 - 💻 I’m always looking for new things to learn, right now I'm getting deeper into node/react/reactNative 🚀
 - 📫 You can reach me at my [Linkedin](https://www.linkedin.com/in/danielbpc/)
 
